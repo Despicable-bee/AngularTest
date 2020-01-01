@@ -1,6 +1,10 @@
-# MyFirstProject
+# Angular Test
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+The purpose of this project is to showcase some of the functionality of Angular and get familiar with its capabilities.
+This markdown sheet contains much of the text that was generated from the Angular CLI project creation tool.
+Please visit angular CLI if you want to get started:
+[Karma](https://cli.angular.io/)
 
 ## Development server
 
