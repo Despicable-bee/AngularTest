@@ -1,0 +1,7 @@
+[
+    { "id": 1, "name": "Harru", "age": 21 },
+    { "id": 2, "name": "Samantha", "age": 19 },
+    { "id": 3, "name": "Thomas", "age": 18 },
+    { "id": 4, "name": "Panzerkampfwagen", "age": 70 },
+    { "id": 5, "name": "Jesus", "age": 1000 }
+  ]
